@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Object1","order":17,"path":"objects/Object1/Object1.yy",},
+    {"name":"Room1","order":16,"path":"rooms/Room1/Room1.yy",},
+    {"name":"spr_gm_logo","order":21,"path":"sprites/spr_gm_logo/spr_gm_logo.yy",},
+    {"name":"spr_matharoo","order":19,"path":"sprites/spr_matharoo/spr_matharoo.yy",},
+    {"name":"spr_tile","order":23,"path":"sprites/spr_tile/spr_tile.yy",},
+  ],
+}
